@@ -36,7 +36,7 @@ A simple Angular-based workout tracker application that allows users to log thei
 2. Install the dependencies:
    npm install
 
-3. Running Locally
+3. Running Locally:
    Start the development server:
    ng serve
    the page opens on localhost:4200 on your browser.
